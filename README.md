@@ -1,6 +1,6 @@
 # Sunnyside-Agency-Landing-Page
 
-Hello guys, I created the "Sunnyside agency landing page" using React and Tailwind. 
+Hello guys, I created the "Sunnyside agency landing page" using React and Tailwind. The screenshots are available in this repository folder.
 
 ->Tailwind:
 In Tailwind, I applied the layout for the webpage using "flex". I styled the navbar using "flex".
