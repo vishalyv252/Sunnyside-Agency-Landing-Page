@@ -48,7 +48,7 @@ export default {
       screens:{
         'Mobile':{'max':'426px'},
         'Tablet':{'max':'769px'},
-        'LS':{'max':'1025px'}
+        'LS':{'max':'1025px'}//Laptop Small device
       },
     },
   },
